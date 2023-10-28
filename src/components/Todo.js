@@ -1,5 +1,4 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { AiOutlineEdit, } from "react-icons/ai";
 import { BsTrash3Fill } from "react-icons/bs";
 
